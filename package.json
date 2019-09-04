@@ -1,6 +1,6 @@
 {
   "name": "@pluto_network/scinapse-freshdesk-feedback-ticketing-package",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Package for Scinapse to send feedback email ticket to Freshdesk",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/pluto-net/scinapse-freshdesk-feedback-ticketing-package.git"
   },
-  "author": "Yujeong Nog",
+  "author": "Yujeong Noh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pluto-net/scinapse-freshdesk-feedback-ticketing-package/issues"
